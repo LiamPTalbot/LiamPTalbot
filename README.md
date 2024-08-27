@@ -13,7 +13,7 @@ My foray into Solutions Architecture began during my tenure as a Marine Engineer
 I am eager to collaborate on projects that intersect engineering and technology, particularly those involving data-driven solutions, cloud architecture, and full-stack development. I am seeking opportunities where I can apply my extensive engineering experience while continuing to grow as a software engineer.
 
 **📫 Contact:**  
-You can reach me through GitHub or connect with me on [LinkedIn](#). I am open to networking, collaboration, and new opportunities.
+You can reach me through GitHub, via my Portfolio Website, via my Medium Page, or connect with me on [LinkedIn.com/in/liam-talbot-msc-ceng-5040875a](#). I am open to networking, collaboration, and new opportunities.
 
 **😄 Pronouns:**  
 He/Him
