@@ -7,7 +7,7 @@ I am a Chartered Marine Engineer based in the UK with over 15 years of industry 
 I am currently enhancing my skills in Microsoft Azure, web development, and various programming languages, including HTML, CSS, JavaScript, Python, and SQL. Additionally, I am building a solid understanding of Web Architecture, including HTTP, APIs, Flask, and Jinja. My goal is to leverage my engineering experience to bring a unique perspective to software development and architecture.
 
 **💼 Professional Journey:**  
-My foray into Solutions Architecture began during my tenure as a Marine Engineer, where I utilized Palantir Foundry to build data pipelines and develop applications for data analysis and management. This experience ignited my passion for software engineering, and I have since committed to deepening my expertise in this area.
+My foray into Solutions Architecture began during my tenure as a Marine Engineer, where I utilised Palantir Foundry to build data pipelines and develop applications for data analysis and management. This experience ignited my passion for software engineering, and I have since committed to deepening my expertise in this area.
 
 **💞️ Collaboration:**  
 I am eager to collaborate on projects that intersect engineering and technology, particularly those involving data-driven solutions, cloud architecture, and full-stack development. I am seeking opportunities where I can apply my extensive engineering experience while continuing to grow as a software engineer.
