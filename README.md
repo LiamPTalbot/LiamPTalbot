@@ -14,6 +14,3 @@ I am eager to collaborate on projects that intersect engineering and technology,
 
 **📫 Contact:**  
 You can reach me through GitHub, via my Portfolio Website, via my Medium Page, or connect with me on [LinkedIn.com/in/liam-talbot-msc-ceng-5040875a](#). I am open to networking, collaboration, and new opportunities.
-
-**⚡ Fun Fact:**  
-My career has taken me from the high seas to the cloud, and I am just as passionate about navigating complex data systems as I am about engineering solutions in the maritime industry.
